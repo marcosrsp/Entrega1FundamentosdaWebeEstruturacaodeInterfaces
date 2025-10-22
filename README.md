@@ -15,7 +15,7 @@ cadastro.html: A página que tem o formulário de cadastro.
 O que eu usei?
 Tentei seguir tudo que foi pedido na atividade:
 
-HTML Semântico: Usei as tags certas (<header>, <main>, <footer>, <section>, etc.) pra estruturar as páginas.
+HTML Semântico: Usei as tags certas (header, main, footer, section, etc.) pra estruturar as páginas.
 
 Formulário: Na página cadastro.html, eu usei os input do HTML5 (como type="email", type="date") e a validação (required e pattern).
 
